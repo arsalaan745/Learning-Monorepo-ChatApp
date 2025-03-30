@@ -12,7 +12,7 @@ app.get("/signin", (req, res)=>{
 
 
 app.get("/chat", (req, res)=>{
-    res.send("Hello World");
+    res.send("Hii leo");
 })
 
-app.listen(3000);
+app.listen(3001);
